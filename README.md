@@ -1,6 +1,6 @@
 # Github Finder
 
-> React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management. Link: [https://n1kko777-github-finder.netlify.com/](https://n1kko777-github-finder.netlify.com/)
+> React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management. Link: [https://n1kko777-github-finder.netlify.com](https://n1kko777-github-finder.netlify.com)
 
 ## Usage
 
